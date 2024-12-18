@@ -2,7 +2,7 @@
 
 Git Clone First
 ````
-git clone <repo_link>
+git clone https://github.com/ahsanayon12/three-tier-docker-apps.git
 ````
 
 
