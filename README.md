@@ -1,6 +1,12 @@
 # three-tier-docker-apps
 
+````
+sudo apt-get update -y
+````
+
+
 Git Clone First
+
 ````
 git clone https://github.com/ahsanayon12/three-tier-docker-apps.git
 ````
