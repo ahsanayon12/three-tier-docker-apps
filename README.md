@@ -8,8 +8,14 @@ sudo apt-get update -y
 Git Clone First
 
 ````
-git clone https://github.com/ahsanayon12/three-tier-docker-apps.git
+sudo git clone https://github.com/ahsanayon12/three-tier-docker-apps.git
 ````
+## If git not install in your PC please install
+````
+sudo apt-get install git -y
+````
+
+
 
 # Installing Docker
 
