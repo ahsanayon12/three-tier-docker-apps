@@ -1,5 +1,11 @@
 # three-tier-docker-apps
 
+Git Clone First
+````
+git clone <repo_link>
+````
+
+
 ````
 # Add Docker's official GPG key:
 sudo apt-get update
